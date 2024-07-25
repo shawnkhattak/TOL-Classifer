@@ -1,5 +1,5 @@
 
-# Enemy detector for Tales of Landor - WIP
+# Enemy detector for Tales of Landor
 
 An Image detection model trained using YOLOv8, made to find different enemies in the game Tales of Landor.
 
