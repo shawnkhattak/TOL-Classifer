@@ -16,6 +16,8 @@ I plan to tackle more complex and real-life applicable projects in the future, w
 
 ![Example Screenshot](https://github.com/shawnkhattak/TOL-Classifer/blob/main/example.gif?raw=true)
 
+## Video
+[![](https://img.youtube.com/vi/3y6lCbQuMfE/0.jpg)](https://www.youtube.com/watch?v=3y6lCbQuMfE)
 
 ## Acknowledgements
 
